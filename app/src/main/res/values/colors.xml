@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <item name="main_background" type="drawable">#ffe7e7e7</item>
+    <item name="white" type="drawable">#ffffffff</item>
+    <item name="news_list_item_background" type="drawable">#ffe7e7e7</item>
+</resources>
